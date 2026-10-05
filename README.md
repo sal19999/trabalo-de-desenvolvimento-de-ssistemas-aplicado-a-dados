@@ -3,3 +3,5 @@
 2: irei fazer esse projeto como um mini serviço, para ter compatibilidade com extençoes que podem ser nessesariass em breve, mas por agora a estrutura dele sera mais independente
 3:get/cursos from ("nova leva de materias")
 get/cursos from ("cursos concluidos") (id)
+
+para executar ele basta apenas copialo e colocalo em um local de teste domo google colab
